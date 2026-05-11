@@ -11,3 +11,8 @@ Two directories:
 - Laser_Light_Injection_System (Final design by Keith Clarke, probably with SolidWorks. )
 - Light Injection (Initial design by David Cussans. Turned out to be too wide to fit. )
  
+Parts list:
+- Molex 1061251100 LC-LC coupler
+- Thorlabs MRA03-E02 3mm right angled mirror https://www.thorlabs.com/item/MRA03-E02
+- Thorlabs DG05-220 1/2" ground glass diffuser https://www.thorlabs.com/item/DG05-220
+  
